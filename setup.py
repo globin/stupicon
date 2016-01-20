@@ -12,6 +12,7 @@ config = {
         'nose',
     ],
     'scripts': ['bin/stupicon'],
+    'packages': ['stupicon'],
     'name': 'stupicon',
 }
 
