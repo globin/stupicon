@@ -1,2 +1,5 @@
+Cython
+rtmidi2
 git+https://github.com/tylerwowen/RPIO@master
 hg+http://bitbucket.org/pygame/pygame
+toml
